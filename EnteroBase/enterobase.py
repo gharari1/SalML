@@ -1,3 +1,11 @@
+'''
+*************************
+Thanks to Dana Rapoport
+for contributing to
+the code.
+*************************
+'''
+
 import os
 import urllib.request
 import json
@@ -7,13 +15,7 @@ from urllib.request import HTTPError
 import logging
 import pandas as pd
 
-'''
-*************************
-Thanks to Dana Rapoport
-for contributing to
-the code.
-*************************
-'''
+
 
 
 # You must have a valid API Token
