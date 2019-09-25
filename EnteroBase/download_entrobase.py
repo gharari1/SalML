@@ -1,9 +1,3 @@
-import pandas as pd
-import urllib.request
-import base64
-import json
-
-
 '''
 *************************
 Thanks to Dana Rapoport
@@ -11,6 +5,11 @@ for contributing to
 the code.
 *************************
 '''
+
+import pandas as pd
+import urllib.request
+import base64
+import json
 
 
 # You must have a valid API Token
